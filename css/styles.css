@@ -312,9 +312,7 @@ button:focus {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  padding-right: 32px;
-  padding-left: 32px;
-  padding-top: 40px;
+  padding: 40px 32px;
   position: absolute;
   top: 0;
   left: 0;
@@ -365,6 +363,7 @@ button:focus {
 }
 .social-footer {
   font-size: 16px;
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
